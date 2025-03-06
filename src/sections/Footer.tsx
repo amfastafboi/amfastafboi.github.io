@@ -3,19 +3,19 @@ import ArrowUpRightIcon from '@/assets/icons/arrow-up-right.svg'
 const footerLinks = [
   {
     title: 'Instagram',
-    href: '#',
+    href: 'https://www.instagram.com/amfastafboi',
   },
   {
     title: 'Github',
-    href: '#',
+    href: 'https://github.com/amfastafboi',
   },
   {
     title: 'Youtube',
-    href: '#',
+    href: 'https://www.youtube.com/@z3ddyyt',
   },
   {
     title: 'Twitter',
-    href: '#',
+    href: 'https://x.com/amfastafboi',
   }
 ]
 
